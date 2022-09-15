@@ -1,0 +1,654 @@
+fileFormatVersion: 2
+guid: ae3587552a86f43cab3655e7658d6d03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5965052471971288144
+    second: RoofHay1
+  - first:
+      213: 6421419015923312759
+    second: RoofHay1
+  - first:
+      213: -2112334114040513057
+    second: RoofHay2
+  - first:
+      213: -420873823343628591
+    second: ComposedHouse10_2
+  - first:
+      213: -8539627424936544080
+    second: ComposedHouse10_3
+  - first:
+      213: -3153524756074012893
+    second: ComposedHouse10_4
+  - first:
+      213: 1078110179912361354
+    second: RoofHay3
+  - first:
+      213: 2658966976837575721
+    second: RoofHay7
+  - first:
+      213: 2606687171440476531
+    second: RoofHay4
+  - first:
+      213: -6940476253674007900
+    second: RoofHay8
+  - first:
+      213: 7549139665825535524
+    second: RoofHay5
+  - first:
+      213: -1877268751734412859
+    second: RoofHay9
+  - first:
+      213: 4544522052846449363
+    second: ComposedHouse10_11
+  - first:
+      213: -6049433360065756371
+    second: ComposedHouse10_12
+  - first:
+      213: -2168546994737060984
+    second: ComposedHouse10_13
+  - first:
+      213: 3810810011354478418
+    second: RoofHay6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoofHay1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1531
+        width: 1670
+        height: 494
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 345, y: 247}
+        - {x: 219, y: 211}
+        - {x: -57, y: 201}
+        - {x: -82.79932, y: 226.39209}
+        - {x: -179, y: 224}
+        - {x: -430, y: 185}
+        - {x: -620.55426, y: 212.43738}
+        - {x: -796, y: 208}
+        - {x: -808, y: 163}
+        - {x: -835, y: 130}
+        - {x: -835, y: 93}
+        - {x: -799, y: 91}
+        - {x: -742, y: 34}
+        - {x: -761, y: -8}
+        - {x: -692, y: -105}
+        - {x: -592, y: -100}
+        - {x: -553, y: -178}
+        - {x: -556, y: -247}
+        - {x: -523, y: -247}
+        - {x: -469, y: -217}
+        - {x: -410, y: -137}
+        - {x: -348, y: -181}
+        - {x: -292, y: -195}
+        - {x: -276, y: -157}
+        - {x: -246, y: -175}
+        - {x: -221, y: -247}
+        - {x: -185, y: -247}
+        - {x: -100, y: -174}
+        - {x: -101, y: -130}
+        - {x: -49, y: -170}
+        - {x: -19, y: -128}
+        - {x: 130, y: -168}
+        - {x: 141, y: -247}
+        - {x: 175, y: -247}
+        - {x: 215, y: -165}
+        - {x: 236, y: -211}
+        - {x: 260, y: -196}
+        - {x: 295, y: -66}
+        - {x: 263.4707, y: -22.635132}
+        - {x: 309, y: -10}
+        - {x: 371, y: -68}
+        - {x: 576, y: -91}
+        - {x: 625, y: -117}
+        - {x: 639, y: -187}
+        - {x: 662, y: -182}
+        - {x: 705, y: -73}
+        - {x: 746, y: -86}
+        - {x: 738, y: -10}
+        - {x: 763, y: 14}
+        - {x: 625, y: 98}
+        - {x: 622, y: 130}
+        - {x: 662, y: 170}
+        - {x: 597, y: 176}
+        - {x: 487, y: 245}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7782c06a2967d1950800000000000000
+      internalID: 5965052471971288144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoofHay2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1098
+        width: 1541
+        height: 423
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 735.5, y: 102.5}
+        - {x: 661.5, y: 116.5}
+        - {x: 701.5, y: 172.5}
+        - {x: 564.5, y: 211.5}
+        - {x: 438.5, y: 177.5}
+        - {x: 273.5, y: 203.5}
+        - {x: 193.5, y: 174.5}
+        - {x: 91.5, y: 169.5}
+        - {x: -64.5, y: 211.5}
+        - {x: -128.5, y: 211.5}
+        - {x: -352.5, y: 171.5}
+        - {x: -520.63495, y: 197.04382}
+        - {x: -670.5, y: 211.5}
+        - {x: -770.5, y: 175.5}
+        - {x: -731.5, y: 149.5}
+        - {x: -770.5, y: 92.5}
+        - {x: -770.5, y: 16.5}
+        - {x: -668.5, y: -31.5}
+        - {x: -553.5, y: -27.5}
+        - {x: -520.5, y: -4.5}
+        - {x: -501.5, y: -44.5}
+        - {x: -464.5, y: -29.5}
+        - {x: -421.5, y: -69.5}
+        - {x: -274.5, y: -54.5}
+        - {x: -270.5, y: -24.5}
+        - {x: -160.5, y: -11.5}
+        - {x: -179.5, y: -58.5}
+        - {x: -99.5, y: -68.5}
+        - {x: -50.5, y: -41.5}
+        - {x: -61.5, y: -124.5}
+        - {x: -25.5, y: -204.5}
+        - {x: 217.5, y: -211.5}
+        - {x: 278.5, y: -188.5}
+        - {x: 392.5, y: -206.5}
+        - {x: 392.5, y: -150.5}
+        - {x: 553.5, y: -119.5}
+        - {x: 658.5, y: -94.5}
+        - {x: 770.5, y: -3.5}
+        - {x: 770.5, y: 72.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddfcad905b7fa2e0800000000000000
+      internalID: -2112334114040513057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoofHay3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 689
+        width: 901
+        height: 409
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -151.51685, y: -204.49994}
+        - {x: -110.5, y: -187.5}
+        - {x: -0.5, y: -152.5}
+        - {x: 11.302002, y: -204.49988}
+        - {x: 95.15277, y: -204.49994}
+        - {x: 180.90253, y: -204.49994}
+        - {x: 341.5, y: -204.5}
+        - {x: 378.5, y: -158.5}
+        - {x: 450.5, y: -165.5}
+        - {x: 450.5, y: -50.5}
+        - {x: 404.5, y: -10.5}
+        - {x: 326.5, y: 83.5}
+        - {x: 223.5, y: 198.5}
+        - {x: 150.5, y: 192.5}
+        - {x: 67.5, y: 204.5}
+        - {x: -124.5, y: 158.5}
+        - {x: -265.5, y: 167.5}
+        - {x: -302.5, y: 139.5}
+        - {x: -450.5, y: 154.5}
+        - {x: -450.5, y: 92.5}
+        - {x: -382.5, y: -1.5}
+        - {x: -370.5, y: -76.5}
+        - {x: -339.5, y: -55.5}
+        - {x: -262.5, y: -204.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a86e1f7736fe00800000000000000
+      internalID: 1078110179912361354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoofHay7
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 801
+        width: 717
+        height: 253
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -281.5, y: -126.5}
+        - {x: -205.5, y: -108.5}
+        - {x: -181.5, y: -60.5}
+        - {x: -106.5, y: -50.5}
+        - {x: -88.5, y: -31.5}
+        - {x: -23.5, y: 12.5}
+        - {x: -21.5, y: -22.5}
+        - {x: 66.5, y: -8.5}
+        - {x: 105.5, y: -26.5}
+        - {x: 358.5, y: -42.5}
+        - {x: 358.5, y: 32.5}
+        - {x: 273.5, y: 77.5}
+        - {x: -9.5, y: 126.5}
+        - {x: -81.5, y: 126.5}
+        - {x: -111.5, y: 107.5}
+        - {x: -205.5, y: 98.5}
+        - {x: -358.5, y: -1.5}
+        - {x: -358.5, y: -63.5}
+        - {x: -316.5, y: -85.5}
+        - {x: -311.5, y: -126.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e5eba06c86e420800000000000000
+      internalID: 2658966976837575721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoofHay4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 1260
+        height: 262
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 423, y: 131}
+        - {x: 301, y: 102}
+        - {x: 208, y: 131}
+        - {x: 47.293457, y: 131}
+        - {x: 52, y: 94}
+        - {x: -154, y: 103}
+        - {x: -246, y: 131}
+        - {x: -326.3961, y: 131}
+        - {x: -339, y: 95}
+        - {x: -457, y: 131}
+        - {x: -572, y: 66}
+        - {x: -630, y: 22}
+        - {x: -630, y: -19}
+        - {x: -596, y: -8}
+        - {x: -607, y: -37}
+        - {x: -570, y: -22}
+        - {x: -573, y: -55}
+        - {x: -613, y: -112}
+        - {x: -523, y: -129}
+        - {x: -450, y: -91}
+        - {x: -434, y: -122}
+        - {x: -244, y: -90}
+        - {x: -199, y: -109}
+        - {x: -15, y: -99}
+        - {x: 26, y: -131}
+        - {x: 85, y: -109}
+        - {x: 100, y: -131}
+        - {x: 188, y: -89}
+        - {x: 189, y: -130}
+        - {x: 224, y: -131}
+        - {x: 265, y: -98}
+        - {x: 312, y: -131}
+        - {x: 358, y: -63}
+        - {x: 446, y: -43}
+        - {x: 466, y: -111}
+        - {x: 552, y: -89}
+        - {x: 578, y: -120}
+        - {x: 630, y: -28}
+        - {x: 630, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371074eeb20dc2420800000000000000
+      internalID: 2606687171440476531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoofHay8
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 623
+        width: 584
+        height: 130
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 65}
+        - {x: 92, y: 38}
+        - {x: -50, y: 65}
+        - {x: -173, y: 57}
+        - {x: -186, y: 30}
+        - {x: -253, y: 23}
+        - {x: -292, y: -23}
+        - {x: -292, y: -65}
+        - {x: -187, y: -52}
+        - {x: -168, y: -65}
+        - {x: -108, y: -65}
+        - {x: -52, y: -19}
+        - {x: 73, y: -34}
+        - {x: 97, y: -60}
+        - {x: 139, y: -48}
+        - {x: 258, y: -65}
+        - {x: 292, y: -44}
+        - {x: 283, y: 52}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a21ab79e997eaf90800000000000000
+      internalID: -6940476253674007900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoofHay5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 11
+        width: 933
+        height: 348
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 312.5, y: 84}
+        - {x: 188.5, y: 164}
+        - {x: -128.5, y: 174}
+        - {x: -113.5, y: 148}
+        - {x: -185.5, y: 139}
+        - {x: -218.5, y: 109}
+        - {x: -278.5, y: 134}
+        - {x: -395.5, y: 66}
+        - {x: -464.5, y: 7}
+        - {x: -466.5, y: -50}
+        - {x: -438.5, y: -66}
+        - {x: -421.5, y: -109}
+        - {x: -323.5, y: -97}
+        - {x: -288.5, y: -170}
+        - {x: -200.5, y: -87}
+        - {x: -178.5, y: -138}
+        - {x: -153.5, y: -167}
+        - {x: -115.5, y: -153}
+        - {x: -95.5, y: -174}
+        - {x: -66.5, y: -174}
+        - {x: -31.5, y: -126}
+        - {x: -28.5, y: -174}
+        - {x: 12.5, y: -174}
+        - {x: 60.5, y: -152}
+        - {x: 80.5, y: -164}
+        - {x: 126.5, y: -153}
+        - {x: 163.5, y: -102}
+        - {x: 208.5, y: -141}
+        - {x: 244.5, y: -78}
+        - {x: 286.5, y: -115}
+        - {x: 315.5, y: -53}
+        - {x: 424.5, y: -79}
+        - {x: 419.5, y: -28}
+        - {x: 466.5, y: 19}
+        - {x: 466.5, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426975d678ee3c860800000000000000
+      internalID: 7549139665825535524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoofHay9
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 357
+        width: 691
+        height: 180
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 162.5, y: 79}
+        - {x: 132.5, y: 90}
+        - {x: 14.515625, y: 90}
+        - {x: -66.5, y: 60}
+        - {x: -105.5, y: 77}
+        - {x: -246.5, y: 61}
+        - {x: -309.5, y: 85}
+        - {x: -345.5, y: 52}
+        - {x: -345.5, y: -55}
+        - {x: -279.5, y: -28}
+        - {x: -124.5, y: -90}
+        - {x: -99.5, y: -64}
+        - {x: -52.5, y: -67}
+        - {x: -55.5, y: -42}
+        - {x: 16.5, y: -80}
+        - {x: 251.5, y: -57}
+        - {x: 345.5, y: -90}
+        - {x: 341.5, y: 7}
+        - {x: 240.5, y: 68}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ede8340a92f5e0800000000000000
+      internalID: -1877268751734412859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoofHay6
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 70
+        width: 779
+        height: 243
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 389.5, y: 21.5}
+        - {x: 349.5, y: 79.5}
+        - {x: 358.5, y: 121.5}
+        - {x: -276.5, y: 121.5}
+        - {x: -389.5, y: 63.5}
+        - {x: -389.5, y: 36.5}
+        - {x: -324.5, y: 45.5}
+        - {x: -337.5, y: -36.5}
+        - {x: -306.5, y: -28.5}
+        - {x: -296.5, y: -71.5}
+        - {x: -262.5, y: -121.5}
+        - {x: -225.5, y: -99.5}
+        - {x: -177.5, y: -114.5}
+        - {x: -129.5, y: -84.5}
+        - {x: -4.5, y: -92.5}
+        - {x: 2.5, y: -24.5}
+        - {x: 63.5, y: -91.5}
+        - {x: 83.5, y: -19.5}
+        - {x: 151.5, y: -69.5}
+        - {x: 164.5, y: -121.5}
+        - {x: 237.5, y: -121.5}
+        - {x: 233.5, y: -74.5}
+        - {x: 269.17993, y: -73.58513}
+        - {x: 304.5, y: -107.5}
+        - {x: 319.5, y: -66.5}
+        - {x: 389.5, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2573949c387b2e430800000000000000
+      internalID: 3810810011354478418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RoofHay1: 5965052471971288144
+      RoofHay7: 2658966976837575721
+      RoofHay6: 3810810011354478418
+      RoofHay4: 2606687171440476531
+      RoofHay8: -6940476253674007900
+      RoofHay2: -2112334114040513057
+      RoofHay5: 7549139665825535524
+      RoofHay9: -1877268751734412859
+      RoofHay3: 1078110179912361354
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

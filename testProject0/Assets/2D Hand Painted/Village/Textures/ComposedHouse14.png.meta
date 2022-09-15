@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 751edc0aeb1484e4392c6a4f46ca6ee2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2869115396899081085
+    second: Door1
+  - first:
+      213: -4950680412457382125
+    second: Door2
+  - first:
+      213: -551082938411016477
+    second: Door3
+  - first:
+      213: 3499683669041570755
+    second: Door5
+  - first:
+      213: 3230424311799132286
+    second: Door4
+  - first:
+      213: 1496226213467112817
+    second: Door7
+  - first:
+      213: -3834454974551121022
+    second: Door6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Door1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1158
+        width: 459
+        height: 860
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384f93c6fbade28d0800000000000000
+      internalID: -2869115396899081085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1158
+        width: 459
+        height: 860
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f4efa0566ab4bb0800000000000000
+      internalID: -4950680412457382125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1158
+        width: 459
+        height: 827
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.5, y: 413.5}
+        - {x: -229.5, y: 319.5}
+        - {x: -229.5, y: -413.5}
+        - {x: 229.5, y: -413.5}
+        - {x: 229.5, y: 342.5}
+        - {x: 132.5, y: 413.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee9b3ebcf82a58f0800000000000000
+      internalID: -551082938411016477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 216
+        width: 920
+        height: 915
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3657f31cf519030800000000000000
+      internalID: 3499683669041570755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door4
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1157
+        width: 544
+        height: 860
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -145, y: 430}
+        - {x: -272, y: 316}
+        - {x: -272, y: -430}
+        - {x: 272, y: -430}
+        - {x: 272, y: 351}
+        - {x: 143, y: 429}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b29acbc5c4dc20800000000000000
+      internalID: 3230424311799132286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door7
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 216
+        width: 544
+        height: 861
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143, y: 430.5}
+        - {x: -272, y: 322.5}
+        - {x: -272, y: -430.5}
+        - {x: 272, y: -430.5}
+        - {x: 272, y: 333.5}
+        - {x: 167, y: 429.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c55550d9a3c410800000000000000
+      internalID: 1496226213467112817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 216
+        width: 507
+        height: 861
+      alignment: 9
+      pivot: {x: 0.50669897, y: -0.0049163075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -253.5, y: 430.5}
+        - {x: -253.5, y: 270.5}
+        - {x: -233.5, y: 261.5}
+        - {x: -232.5, y: -430.5}
+        - {x: 230.5, y: -430.5}
+        - {x: 233.5, y: 267.5}
+        - {x: 253.5, y: 273.5}
+        - {x: 253.5, y: 430.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a6a6348749cac0800000000000000
+      internalID: -3834454974551121022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Door2: -4950680412457382125
+      Door3: -551082938411016477
+      Door4: 3230424311799132286
+      Door6: -3834454974551121022
+      Door7: 1496226213467112817
+      Door1: -2869115396899081085
+      Door5: 3499683669041570755
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

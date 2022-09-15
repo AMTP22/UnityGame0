@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: 0185c05bfcf184903b7866c92e3489ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1144666854862287584
+    second: LaundryRope1
+  - first:
+      213: -1732524823015838322
+    second: LaundryRope1
+  - first:
+      213: 2741490379477171776
+    second: LaundryRope2
+  - first:
+      213: 6150524417930099387
+    second: BannerRed1
+  - first:
+      213: -2606178499424181988
+    second: BannerBlue1
+  - first:
+      213: 4610352697413544868
+    second: BannerGreen1
+  - first:
+      213: 1754586074965501241
+    second: LaundryRope2
+  - first:
+      213: -5752431483706443805
+    second: BannerRed1
+  - first:
+      213: 2086860475612519969
+    second: BannerYellow1
+  - first:
+      213: -7210853368736443378
+    second: BannerBlack1
+  - first:
+      213: 1486336673285526233
+    second: BannerRed3
+  - first:
+      213: -7363387205641960184
+    second: BannerBlack3
+  - first:
+      213: -2473397237974197411
+    second: BannerBlue3
+  - first:
+      213: -7802938421658570435
+    second: FlagPole2
+  - first:
+      213: -7941990411804281119
+    second: FlagPole3
+  - first:
+      213: -845483781016444850
+    second: BannerRed2
+  - first:
+      213: 7292305932956691523
+    second: BannerBlue2
+  - first:
+      213: -5555017855590527200
+    second: BannerGreen2
+  - first:
+      213: 1326411133506482702
+    second: BannerYellow2
+  - first:
+      213: 6229398032602226172
+    second: BannerBlack2
+  - first:
+      213: 732545132971766798
+    second: BannerGreen3
+  - first:
+      213: -565701367431742755
+    second: BannerRed4
+  - first:
+      213: 4661382086923997806
+    second: BannerBlue4
+  - first:
+      213: -6307249905814715948
+    second: BannerGreen4
+  - first:
+      213: 168104819176285593
+    second: BannerYellow4
+  - first:
+      213: 7242840380763717034
+    second: BannerBlack4
+  - first:
+      213: -9216632969102516852
+    second: BannerYellow3
+  - first:
+      213: -3739606063148324151
+    second: BannerRed5
+  - first:
+      213: 2335864605075960135
+    second: BannerBlue5
+  - first:
+      213: -4611253394809118607
+    second: BannerGreen5
+  - first:
+      213: 6481673563677027684
+    second: BannerYellow5
+  - first:
+      213: 2204979603039972148
+    second: BannerBlack5
+  - first:
+      213: -1411941494695152374
+    second: FlagPole1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BannerRed1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 483
+        width: 209
+        height: 590
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5, y: 295}
+        - {x: -103.5, y: -295}
+        - {x: 11.5, y: -269}
+        - {x: 104.5, y: -295}
+        - {x: 104.5, y: 295}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e777e21b024b20b0800000000000000
+      internalID: 6150524417930099387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlue1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 483
+        width: 209
+        height: 590
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 295}
+        - {x: -104.5, y: -295}
+        - {x: 5.5, y: -271}
+        - {x: 104.5, y: -295}
+        - {x: 104.5, y: 295}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11af80867ef4dbd0800000000000000
+      internalID: -2606178499424181988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerGreen1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 483
+        width: 209
+        height: 590
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 295}
+        - {x: -104.5, y: -295}
+        - {x: 3.5, y: -270}
+        - {x: 104.5, y: -295}
+        - {x: 104.5, y: 295}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab29920a534bff30800000000000000
+      internalID: 4610352697413544868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerYellow1
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 483
+        width: 209
+        height: 590
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 295}
+        - {x: -104.5, y: -295}
+        - {x: 8.5, y: -270}
+        - {x: 104.5, y: -295}
+        - {x: 104.5, y: 295}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12edfa0cb8406fc10800000000000000
+      internalID: 2086860475612519969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlack1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 483
+        width: 209
+        height: 590
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 295}
+        - {x: -104.5, y: -295}
+        - {x: 9.5, y: -271}
+        - {x: 104.5, y: -295}
+        - {x: 104.5, y: 295}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04190dd017edeb90800000000000000
+      internalID: -7210853368736443378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerRed3
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 819
+        width: 209
+        height: 249
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.5, y: 124.5}
+        - {x: -104.5, y: 124.5}
+        - {x: -3.5, y: -124.5}
+        - {x: 103.5, y: 123.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d1d3545780a410800000000000000
+      internalID: 1486336673285526233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlack3
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 819
+        width: 209
+        height: 248
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -124}
+        - {x: -104.5, y: 124}
+        - {x: 103.5, y: 124}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8050e00795effc990800000000000000
+      internalID: -7363387205641960184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlue3
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 556
+        width: 209
+        height: 248
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -124}
+        - {x: -104.5, y: 124}
+        - {x: 104.5, y: 124}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b9d12115abcadd0800000000000000
+      internalID: -2473397237974197411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagPole2
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 751
+        width: 553
+        height: 51
+      alignment: 9
+      pivot: {x: 0.99810845, y: 0.4930396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d313bc4e8d466b390800000000000000
+      internalID: -7802938421658570435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagPole3
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 682
+        width: 333
+        height: 51
+      alignment: 9
+      pivot: {x: 0.99870193, y: 0.51253736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6f8d68cc168c190800000000000000
+      internalID: -7941990411804281119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerRed2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 51
+        width: 209
+        height: 358
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 179}
+        - {x: -104.5, y: -179}
+        - {x: 9.5, y: -154}
+        - {x: 104.5, y: -179}
+        - {x: 104.5, y: 179}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4029211bfc3444f0800000000000000
+      internalID: -845483781016444850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlue2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 51
+        width: 209
+        height: 358
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 179}
+        - {x: -104.5, y: -179}
+        - {x: 5.5, y: -159}
+        - {x: 104.5, y: -179}
+        - {x: 104.5, y: 179}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6b571c99733560800000000000000
+      internalID: 7292305932956691523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerGreen2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 54
+        width: 209
+        height: 358
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.5, y: 178}
+        - {x: -104.5, y: 178}
+        - {x: -104.5, y: -179}
+        - {x: 9.5, y: -159}
+        - {x: 104.5, y: -179}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f039c21bc98e2b0800000000000000
+      internalID: -5555017855590527200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerYellow2
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 51
+        width: 209
+        height: 358
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: -179}
+        - {x: 2.5, y: -157}
+        - {x: 103.5, y: -179}
+        - {x: 103.5, y: 179}
+        - {x: -104.5, y: 179}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f6c6f5eb586210800000000000000
+      internalID: 1326411133506482702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlack2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 51
+        width: 209
+        height: 358
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 179}
+        - {x: -104.5, y: -179}
+        - {x: 6.5, y: -159}
+        - {x: 104.5, y: -179}
+        - {x: 104.5, y: 179}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd5c18184437650800000000000000
+      internalID: 6229398032602226172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerGreen3
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 285
+        width: 209
+        height: 248
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.5, y: 116}
+        - {x: 104.5, y: 124}
+        - {x: -104.5, y: 124}
+        - {x: -104.5, y: 116}
+        - {x: -4.5, y: -124}
+        - {x: 6.5, y: -124}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0439b0dae58a2a00800000000000000
+      internalID: 732545132971766798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerRed4
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 272
+        width: 70
+        height: 376
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda37418a993628f0800000000000000
+      internalID: -565701367431742755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlue4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 275
+        width: 70
+        height: 376
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62597d9f4e80b040800000000000000
+      internalID: 4661382086923997806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerGreen4
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 275
+        width: 70
+        height: 376
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d14c4eb0a52878a0800000000000000
+      internalID: -6307249905814715948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerYellow4
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 275
+        width: 70
+        height: 376
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995a800417a355200800000000000000
+      internalID: 168104819176285593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlack4
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 275
+        width: 70
+        height: 376
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb64cb3fcb38460800000000000000
+      internalID: 7242840380763717034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerYellow3
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 21
+        width: 209
+        height: 248
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.5, y: 116}
+        - {x: 104.5, y: 124}
+        - {x: -104.5, y: 124}
+        - {x: -104.5, y: 116}
+        - {x: -4.5, y: -124}
+        - {x: 6.5, y: -124}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d9d7b7521f71080800000000000000
+      internalID: -9216632969102516852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerRed5
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 25
+        width: 70
+        height: 242
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa52e49104a1cc0800000000000000
+      internalID: -3739606063148324151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlue5
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 25
+        width: 70
+        height: 242
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f5fc7b78aa6020800000000000000
+      internalID: 2335864605075960135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerGreen5
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 25
+        width: 70
+        height: 242
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a61908798100c0800000000000000
+      internalID: -4611253394809118607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerYellow5
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 25
+        width: 70
+        height: 242
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d6209c3c783f950800000000000000
+      internalID: 6481673563677027684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerBlack5
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 25
+        width: 70
+        height: 242
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bed283449a99e10800000000000000
+      internalID: 2204979603039972148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagPole1
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 11
+        width: 56
+        height: 1105
+      alignment: 9
+      pivot: {x: 0.5082136, y: -0.002619129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05bf0df0b6c76ce0800000000000000
+      internalID: -1411941494695152374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BannerBlack2: 6229398032602226172
+      BannerGreen1: 4610352697413544868
+      BannerYellow3: -9216632969102516852
+      BannerBlue5: 2335864605075960135
+      BannerRed3: 1486336673285526233
+      BannerRed1: 6150524417930099387
+      FlagPole2: -7802938421658570435
+      BannerBlack1: -7210853368736443378
+      BannerBlue1: -2606178499424181988
+      BannerBlack3: -7363387205641960184
+      BannerBlack4: 7242840380763717034
+      BannerGreen3: 732545132971766798
+      BannerYellow4: 168104819176285593
+      BannerGreen5: -4611253394809118607
+      BannerRed4: -565701367431742755
+      BannerGreen4: -6307249905814715948
+      FlagPole3: -7941990411804281119
+      BannerYellow1: 2086860475612519969
+      BannerRed2: -845483781016444850
+      BannerYellow2: 1326411133506482702
+      BannerBlue4: 4661382086923997806
+      BannerYellow5: 6481673563677027684
+      BannerBlue2: 7292305932956691523
+      BannerRed5: -3739606063148324151
+      FlagPole1: -1411941494695152374
+      BannerGreen2: -5555017855590527200
+      BannerBlue3: -2473397237974197411
+      BannerBlack5: 2204979603039972148
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

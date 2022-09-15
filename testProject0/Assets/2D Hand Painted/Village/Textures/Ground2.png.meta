@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 69970317d5088409aa9a3411f38fa7bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5473912143610790163
+    second: GroundRoad3
+  - first:
+      213: 2624341689837452867
+    second: GroundHay
+  - first:
+      213: -3469166529934032259
+    second: GroundBricks1
+  - first:
+      213: 8512709233759794160
+    second: GroundBricks2
+  - first:
+      213: -6658429547365241235
+    second: GroundBricks3
+  - first:
+      213: -5344275115745549871
+    second: Ground2_5
+  - first:
+      213: -403462717959823052
+    second: Ground2_6
+  - first:
+      213: 7011841614011979700
+    second: Ground2_7
+  - first:
+      213: -3214731923037883031
+    second: Ground2_8
+  - first:
+      213: -8265862273323860126
+    second: Ground2_9
+  - first:
+      213: -8616077356824622621
+    second: Ground2_10
+  - first:
+      213: -8156870975225475311
+    second: Ground2_11
+  - first:
+      213: -3527443611288638751
+    second: Ground2_12
+  - first:
+      213: -4207327108456044432
+    second: Ground2_13
+  - first:
+      213: 6014188402580773306
+    second: Ground2_14
+  - first:
+      213: 3959793846653004211
+    second: Ground2_15
+  - first:
+      213: 3818121870579182290
+    second: Ground2_16
+  - first:
+      213: -3126878768169565736
+    second: Ground2_17
+  - first:
+      213: -3922953272260629107
+    second: GroundRocks
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GroundRoad3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1701
+        width: 1673
+        height: 347
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 122, y: 0, z: 110, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb16c48e1c804b0800000000000000
+      internalID: -5473912143610790163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRocks
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1378
+        width: 1776
+        height: 323
+      alignment: 9
+      pivot: {x: 0.4889609, y: -0.0007587301}
+      border: {x: 225, y: 0, z: 224, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8de27898cede89c0800000000000000
+      internalID: -3922953272260629107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundHay
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1020
+        width: 1941
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5017525, y: -0.009962477}
+      border: {x: 320, y: 0, z: 309, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e7200dcd88b6420800000000000000
+      internalID: 2624341689837452867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundBricks1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 682
+        width: 1677
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: -0.015901359}
+      border: {x: 133, y: 0, z: 140, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d728b94eb6b0bdfc0800000000000000
+      internalID: -3469166529934032259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundBricks2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 362
+        width: 1680
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5220803, y: 0.004698912}
+      border: {x: 133, y: 0, z: 126, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b07222f7332670800000000000000
+      internalID: 8512709233759794160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundBricks3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 33
+        width: 1678
+        height: 280
+      alignment: 9
+      pivot: {x: 0.49797595, y: 0.0026772772}
+      border: {x: 130, y: 0, z: 126, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e6453ca918893a0800000000000000
+      internalID: -6658429547365241235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GroundHay: 2624341689837452867
+      GroundRocks: -3922953272260629107
+      GroundRoad3: -5473912143610790163
+      GroundBricks2: 8512709233759794160
+      GroundBricks1: -3469166529934032259
+      GroundBricks3: -6658429547365241235
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

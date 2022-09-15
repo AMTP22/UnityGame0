@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 197e6fc631b3a4a1fa9c20351f765899
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8614485138531099599
+    second: Beam10
+  - first:
+      213: 3218522250177757028
+    second: BeamDark13
+  - first:
+      213: 8781251087868866079
+    second: Beam13
+  - first:
+      213: -908083903327349451
+    second: Beam14
+  - first:
+      213: 2615834751573266054
+    second: HouseFront2
+  - first:
+      213: 8895171616760140472
+    second: BeamDark11
+  - first:
+      213: -1077116981334770926
+    second: BeamDark10
+  - first:
+      213: -2333793151330424074
+    second: Beam11
+  - first:
+      213: 6630164170456337659
+    second: BeamDark14
+  - first:
+      213: 2091851622535931981
+    second: HouseFront3
+  - first:
+      213: -1897716503635211515
+    second: BeamDark12
+  - first:
+      213: -8502142398571174354
+    second: Beam12
+  - first:
+      213: -2322189342310984782
+    second: BeamDark15
+  - first:
+      213: 6380586273540444145
+    second: Beam15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beam10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1164
+        width: 582
+        height: 848
+      alignment: 9
+      pivot: {x: 0.99761176, y: 0.051970717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204, y: 424}
+        - {x: -291, y: 424}
+        - {x: -291, y: 385}
+        - {x: 256, y: -424}
+        - {x: 291, y: -424}
+        - {x: 291, y: -302}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: fc3270d879ccc8770800000000000000
+      internalID: 8614485138531099599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1674
+        width: 212
+        height: 188
+      alignment: 9
+      pivot: {x: -0.004866402, y: 0.26568085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 94}
+        - {x: -106, y: 9}
+        - {x: -106, y: -94}
+        - {x: 106, y: 94}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 46f398f1fec7aac20800000000000000
+      internalID: 3218522250177757028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1840
+        width: 212
+        height: 188
+      alignment: 9
+      pivot: {x: 0.00062143576, y: 0.25105512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 94}
+        - {x: -106, y: 17}
+        - {x: -106, y: -94}
+        - {x: 106, y: 91}
+        - {x: 106, y: 94}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: f1eafefd6554dd970800000000000000
+      internalID: 8781251087868866079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1385
+        width: 74
+        height: 658
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355ceb4086d563f0800000000000000
+      internalID: -908083903327349451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseFront2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1072
+        width: 1224
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e85a6e8df4d4420800000000000000
+      internalID: 2615834751573266054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 239
+        height: 848
+      alignment: 9
+      pivot: {x: 0.9856808, y: 0.14632426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119.5, y: 424}
+        - {x: -119.5, y: 315}
+        - {x: 96.5, y: -424}
+        - {x: 118.5, y: -424}
+        - {x: 118.5, y: -159}
+        - {x: -51.5, y: 424}
+      physicsShape: []
+      tessellationDetail: 0.001
+      bones: []
+      spriteID: 8b21021f47ff17b70800000000000000
+      internalID: 8895171616760140472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 740
+        width: 582
+        height: 848
+      alignment: 9
+      pivot: {x: 1.0041866, y: 0.055924613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204, y: 424}
+        - {x: -291, y: 424}
+        - {x: -291, y: 384}
+        - {x: 261, y: -424}
+        - {x: 291, y: -424}
+        - {x: 291, y: -302}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 21bfff1ffcf4d01f0800000000000000
+      internalID: -1077116981334770926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 239
+        height: 848
+      alignment: 9
+      pivot: {x: 0.9940547, y: 0.14986438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119.5, y: 424}
+        - {x: -119.5, y: 329}
+        - {x: 89.5, y: -389}
+        - {x: 100.5, y: -424}
+        - {x: 119.5, y: -424}
+        - {x: 119.5, y: -139}
+        - {x: -40.5, y: 424}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 6fae5bb6e73bc9fd0800000000000000
+      internalID: -2333793151330424074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 721
+        width: 74
+        height: 658
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc82965f23130c50800000000000000
+      internalID: 6630164170456337659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseFront3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 94
+        width: 1224
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d482414b7ffb70d10800000000000000
+      internalID: 2091851622535931981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 12
+        width: 350
+        height: 412
+      alignment: 9
+      pivot: {x: 0.84710187, y: 0.0025530925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -148, y: 206}
+        - {x: -175, y: 206}
+        - {x: -175, y: 65}
+        - {x: 56, y: -206}
+        - {x: 175, y: -206}
+        - {x: 175, y: -196}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 50b4d6cf4e4f9a5e0800000000000000
+      internalID: -1897716503635211515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 302
+        width: 349
+        height: 412
+      alignment: 9
+      pivot: {x: 0.8471337, y: 0.0020708991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154.5, y: 206}
+        - {x: -174.5, y: 206}
+        - {x: -174.5, y: 77}
+        - {x: 56.5, y: -206}
+        - {x: 174.5, y: -206}
+        - {x: 174.5, y: -193}
+        - {x: -144.5, y: 198}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: e26a067e882520a80800000000000000
+      internalID: -8502142398571174354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark15
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 12
+        width: 584
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b31b5eb81de5cfd0800000000000000
+      internalID: -2322189342310984782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam15
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 10
+        width: 584
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff8c15f8656c8850800000000000000
+      internalID: 6380586273540444145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BeamDark14: 6630164170456337659
+      HouseFront2: 2615834751573266054
+      Beam13: 8781251087868866079
+      Beam12: -8502142398571174354
+      Beam11: -2333793151330424074
+      Beam14: -908083903327349451
+      BeamDark13: 3218522250177757028
+      HouseFront3: 2091851622535931981
+      BeamDark11: 8895171616760140472
+      BeamDark12: -1897716503635211515
+      BeamDark15: -2322189342310984782
+      BeamDark10: -1077116981334770926
+      Beam10: 8614485138531099599
+      Beam15: 6380586273540444145
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

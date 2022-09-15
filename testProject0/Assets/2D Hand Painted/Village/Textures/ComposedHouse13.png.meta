@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 88c310cd7f2a74e708db0408b3734629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1236170584377418765
+    second: LowerRoof1
+  - first:
+      213: -6976409965420863721
+    second: Chimney1
+  - first:
+      213: 5490377239639579
+    second: LowerRoofDark1
+  - first:
+      213: 8328879553640028504
+    second: LowerRoofTiles1
+  - first:
+      213: 6105864177067031876
+    second: Chimney2
+  - first:
+      213: 5144256531872642134
+    second: LowerRoof2
+  - first:
+      213: -2672309034496901466
+    second: Chimney3
+  - first:
+      213: 896641236619457698
+    second: LowerRoofDark2
+  - first:
+      213: 8236538578759343230
+    second: LowerRoofTiles2
+  - first:
+      213: -7779785018944289317
+    second: Planter1
+  - first:
+      213: 1637076631219773427
+    second: Planter3
+  - first:
+      213: 6939871375478426671
+    second: Planter4
+  - first:
+      213: 6520060450259320193
+    second: Planter2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LowerRoof1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1734
+        width: 1208
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -604, y: -134.5}
+        - {x: -604, y: -101.5}
+        - {x: -393, y: 134.5}
+        - {x: 604, y: 134.5}
+        - {x: 604, y: 74.5}
+        - {x: 369, y: -134.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb956c276d38dee0800000000000000
+      internalID: -1236170584377418765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimney1
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1476
+        width: 457
+        height: 516
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.5, y: -258}
+        - {x: -228.5, y: -115}
+        - {x: -228.5, y: -91}
+        - {x: -178.5, y: -90}
+        - {x: -145.5, y: -50}
+        - {x: -146.5, y: 161}
+        - {x: -189.5, y: 193}
+        - {x: -185.5, y: 258}
+        - {x: 140.5, y: 258}
+        - {x: 141.5, y: 191}
+        - {x: 96.5, y: 167}
+        - {x: 99.5, y: -75}
+        - {x: 228.5, y: -243}
+        - {x: 228.5, y: -258}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f189b5910de2f90800000000000000
+      internalID: -6976409965420863721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LowerRoofDark1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1359
+        width: 1208
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -604, y: -134.5}
+        - {x: -604, y: -85.5}
+        - {x: -399, y: 134.5}
+        - {x: 604, y: 134.5}
+        - {x: 604, y: 58.5}
+        - {x: 372, y: -134.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b163d011871831000800000000000000
+      internalID: 5490377239639579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LowerRoofTiles1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 984
+        width: 1208
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -604, y: -134.5}
+        - {x: -604, y: -100.5}
+        - {x: -373, y: 134.5}
+        - {x: 604, y: 134.5}
+        - {x: 604, y: 68.5}
+        - {x: 360, y: -134.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8595ab363df169370800000000000000
+      internalID: 8328879553640028504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimney2
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 916
+        width: 457
+        height: 516
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.5, y: -258}
+        - {x: -228.5, y: -118}
+        - {x: -228.5, y: -91}
+        - {x: -170.5, y: -88}
+        - {x: -138.5, y: -56}
+        - {x: -140.5, y: 173}
+        - {x: -185.5, y: 195}
+        - {x: -181.5, y: 258}
+        - {x: 151.5, y: 258}
+        - {x: 146.5, y: 196}
+        - {x: 100.5, y: 168}
+        - {x: 109.5, y: -80}
+        - {x: 228.5, y: -231}
+        - {x: 228.5, y: -258}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dfcd86e136cb450800000000000000
+      internalID: 6105864177067031876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LowerRoof2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 661
+        width: 846
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -423, y: -134.5}
+        - {x: -423, y: -103.5}
+        - {x: -202, y: 134.5}
+        - {x: 423, y: 134.5}
+        - {x: 423, y: 68.5}
+        - {x: 204, y: -134.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65470cf6f02146740800000000000000
+      internalID: 5144256531872642134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimney3
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 353
+        width: 457
+        height: 516
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: -258}
+        - {x: -228.5, y: -103}
+        - {x: -228.5, y: -91}
+        - {x: -174.5, y: -92}
+        - {x: -138.5, y: -56}
+        - {x: -140.5, y: 169}
+        - {x: -185.5, y: 192}
+        - {x: -182.5, y: 258}
+        - {x: 148.5, y: 258}
+        - {x: 151.5, y: 198}
+        - {x: 100.5, y: 168}
+        - {x: 107.5, y: -79}
+        - {x: 228.5, y: -227}
+        - {x: 228.5, y: -258}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aebeb4771d0aead0800000000000000
+      internalID: -2672309034496901466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LowerRoofDark2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 344
+        width: 845
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200.5, y: -134.5}
+        - {x: -422.5, y: -134.5}
+        - {x: -422.5, y: -79.5}
+        - {x: -216.5, y: 134.5}
+        - {x: 422.5, y: 134.5}
+        - {x: 422.5, y: 66.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47baf3472817c00800000000000000
+      internalID: 896641236619457698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LowerRoofTiles2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 38
+        width: 846
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 207, y: -134.5}
+        - {x: -423, y: -134.5}
+        - {x: -423, y: -86.5}
+        - {x: -204, y: 131.5}
+        - {x: 423, y: 134.5}
+        - {x: 423, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c50c5c2301e4270800000000000000
+      internalID: 8236538578759343230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planter1
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 616
+        width: 448
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 224, y: -116}
+        - {x: -224, y: -116}
+        - {x: -224, y: 36}
+        - {x: -160, y: 86}
+        - {x: -92, y: 97}
+        - {x: -44, y: 70}
+        - {x: -3, y: 88}
+        - {x: 32, y: 116}
+        - {x: 117, y: 116}
+        - {x: 153, y: 100}
+        - {x: 191, y: 58}
+        - {x: 224, y: 51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd58bec8eb6a80490800000000000000
+      internalID: -7779785018944289317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planter3
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 46
+        width: 425
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -212.5, y: -123}
+        - {x: -212.5, y: 12}
+        - {x: -99.5, y: 86}
+        - {x: -30.5, y: 109}
+        - {x: 0.5, y: 90}
+        - {x: 43.5, y: 118}
+        - {x: 93.5, y: 105}
+        - {x: 122.5, y: 123}
+        - {x: 205.5, y: 102}
+        - {x: 193.5, y: 57}
+        - {x: 212.5, y: 25}
+        - {x: 212.5, y: -123}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff92f1c58018b610800000000000000
+      internalID: 1637076631219773427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planter4
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 46
+        width: 461
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -222.5, y: -137}
+        - {x: -223.5, y: -12}
+        - {x: -209.5, y: 56}
+        - {x: -139.5, y: 96}
+        - {x: 11.5, y: 109}
+        - {x: 85.5, y: 109}
+        - {x: 135.5, y: 54}
+        - {x: 207.5, y: 44}
+        - {x: 230.5, y: 12}
+        - {x: 230.5, y: -39}
+        - {x: 209.5, y: -56}
+        - {x: 204.5, y: -137}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0b4a3f306f4060800000000000000
+      internalID: 6939871375478426671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planter2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 315
+        width: 417
+        height: 267
+      alignment: 9
+      pivot: {x: 0.49762827, y: 0.11105484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: -133.5}
+        - {x: 47.5, y: -109.5}
+        - {x: -208.5, y: -108.5}
+        - {x: -208.5, y: 22.5}
+        - {x: -194.5, y: 73.5}
+        - {x: -119.5, y: 90.5}
+        - {x: -85.5, y: 125.5}
+        - {x: -28.5, y: 133.5}
+        - {x: 63.5, y: 110.5}
+        - {x: 81.5, y: 90.5}
+        - {x: 149.5, y: 80.5}
+        - {x: 179.5, y: 43.5}
+        - {x: 208.5, y: 34.5}
+        - {x: 208.5, y: -133.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18db7cb4f68eb7a50800000000000000
+      internalID: 6520060450259320193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chimney3: -2672309034496901466
+      LowerRoof1: -1236170584377418765
+      LowerRoofDark2: 896641236619457698
+      Planter1: -7779785018944289317
+      Planter2: 6520060450259320193
+      LowerRoofDark1: 5490377239639579
+      Planter3: 1637076631219773427
+      LowerRoof2: 5144256531872642134
+      Planter4: 6939871375478426671
+      LowerRoofTiles1: 8328879553640028504
+      LowerRoofTiles2: 8236538578759343230
+      Chimney1: -6976409965420863721
+      Chimney2: 6105864177067031876
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

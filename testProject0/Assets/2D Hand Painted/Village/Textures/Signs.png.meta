@@ -1,0 +1,933 @@
+fileFormatVersion: 2
+guid: edd1b8404368249ebaba584ac267c5f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1714756807398554617
+    second: Sign4
+  - first:
+      213: 8051134168378353487
+    second: Sign3
+  - first:
+      213: -5459743574113085061
+    second: Sign2
+  - first:
+      213: -2742302684088697420
+    second: Sign1
+  - first:
+      213: 8814233360100005479
+    second: Signs
+  - first:
+      213: -8967832436468776462
+    second: Pottery1
+  - first:
+      213: -1180436918578810845
+    second: Pottery2
+  - first:
+      213: 4130303453484289882
+    second: Pottery3
+  - first:
+      213: 2819549039577334838
+    second: Pottery4
+  - first:
+      213: -4109473772060519481
+    second: SignAnvil2
+  - first:
+      213: 2771593224786716091
+    second: SignText1
+  - first:
+      213: -5901745844636399570
+    second: SignAnvil2
+  - first:
+      213: 1951725531057319082
+    second: SignAnvil1
+  - first:
+      213: 4983968925132512035
+    second: SignAxe2
+  - first:
+      213: 2947539016825648776
+    second: SignAxe1
+  - first:
+      213: -6136198190554652223
+    second: SignText2
+  - first:
+      213: -860085043572446729
+    second: SignBeer2
+  - first:
+      213: 2395265649816900946
+    second: SignBeer1
+  - first:
+      213: -3318421643493228518
+    second: SignPotion2
+  - first:
+      213: -6361733155870394759
+    second: SignPotion1
+  - first:
+      213: 7789716986001276017
+    second: SignStake
+  - first:
+      213: 6731457116575203765
+    second: SignGem2
+  - first:
+      213: 4917734464384847937
+    second: SignGem1
+  - first:
+      213: 8814233360100005479
+    second: Pottery8
+  - first:
+      213: -5901745844636399570
+    second: Pottery7
+  - first:
+      213: -6260122000949756345
+    second: Pottery6
+  - first:
+      213: 279569666823812348
+    second: Pottery5
+  - first:
+      213: -4109473772060519481
+    second: SignAnvil2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sign4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1437
+        width: 514
+        height: 580
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 269}
+        - {x: 46, y: 290}
+        - {x: -53, y: 290}
+        - {x: -45, y: 267}
+        - {x: -257, y: 262}
+        - {x: -257, y: -59}
+        - {x: -37, y: -63}
+        - {x: -44, y: -290}
+        - {x: 46, y: -290}
+        - {x: 44, y: -63}
+        - {x: 257, y: -64}
+        - {x: 257, y: 264}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7c2d2b3a0cc710800000000000000
+      internalID: 1714756807398554617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1437
+        width: 514
+        height: 580
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 290}
+        - {x: -49, y: 267}
+        - {x: -257, y: 260}
+        - {x: -257, y: -71}
+        - {x: -41, y: -68}
+        - {x: -47, y: -290}
+        - {x: 47, y: -290}
+        - {x: 45, y: -68}
+        - {x: 257, y: -63}
+        - {x: 257, y: 267}
+        - {x: 47, y: 265}
+        - {x: 41, y: 290}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a3319edf5bbf60800000000000000
+      internalID: 8051134168378353487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign2
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1614
+        width: 382
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.99789745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 194}
+        - {x: -190, y: -120}
+        - {x: -48, y: -194}
+        - {x: 49, y: -194}
+        - {x: 191, y: -106}
+        - {x: 191, y: 194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79944475281b34b0800000000000000
+      internalID: -5459743574113085061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign1
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1606
+        width: 382
+        height: 399
+      alignment: 9
+      pivot: {x: 0.5, y: 0.99592274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdfa48fc3261f9d0800000000000000
+      internalID: -2742302684088697420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery1
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 29
+        width: 162
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 175}
+        - {x: -62, y: 152}
+        - {x: -48, y: 99}
+        - {x: -81, y: -14}
+        - {x: -81, y: -149}
+        - {x: -43, y: -175}
+        - {x: 48, y: -175}
+        - {x: 81, y: -127}
+        - {x: 81, y: -20}
+        - {x: 47, y: 102}
+        - {x: 63, y: 151}
+        - {x: 53, y: 175}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18d03a9ebdb8380800000000000000
+      internalID: -8967832436468776462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery2
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 29
+        width: 260
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 114}
+        - {x: -78, y: 60}
+        - {x: -130, y: 2}
+        - {x: -130, y: -82}
+        - {x: -69, y: -114}
+        - {x: 77, y: -114}
+        - {x: 130, y: -76}
+        - {x: 129, y: -5}
+        - {x: 69, y: 58}
+        - {x: 74, y: 114}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3207a5470ee3e9fe0800000000000000
+      internalID: -1180436918578810845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery3
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 29
+        width: 234
+        height: 336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 168}
+        - {x: -66, y: 168}
+        - {x: -88, y: 134}
+        - {x: -63, y: 83}
+        - {x: -116, y: 9}
+        - {x: -117, y: -123}
+        - {x: -59, y: -168}
+        - {x: 62, y: -168}
+        - {x: 117, y: -131}
+        - {x: 117, y: 13}
+        - {x: 72, y: 81}
+        - {x: 89, y: 142}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f008f8b19c15930800000000000000
+      internalID: 4130303453484289882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery4
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 29
+        width: 172
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 112.5}
+        - {x: 36, y: 117.5}
+        - {x: -44, y: 117.5}
+        - {x: -66, y: 94.5}
+        - {x: -55, y: 55.5}
+        - {x: -70, y: 17.5}
+        - {x: -86, y: -21.5}
+        - {x: -86, y: -77.5}
+        - {x: -55, y: -117.5}
+        - {x: 37, y: -117.5}
+        - {x: 86, y: -94.5}
+        - {x: 86, y: 10.5}
+        - {x: 63, y: 43.5}
+        - {x: 76, y: 92.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6340dc2b9ec012720800000000000000
+      internalID: 2819549039577334838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignText1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1000
+        width: 382
+        height: 399
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5aa497a5da67620800000000000000
+      internalID: 2771593224786716091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 21
+        width: 332
+        height: 307
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 126.5}
+        - {x: 67, y: 153.5}
+        - {x: -66, y: 153.5}
+        - {x: -108, y: 115.5}
+        - {x: -78, y: 78.5}
+        - {x: -166, y: 3.5}
+        - {x: -165, y: -92.5}
+        - {x: -94, y: -153.5}
+        - {x: 90, y: -153.5}
+        - {x: 166, y: -73.5}
+        - {x: 164, y: 16.5}
+        - {x: 87, y: 77.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e284fcf4c69c81ea0800000000000000
+      internalID: -5901745844636399570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignAnvil1
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1000
+        width: 382
+        height: 399
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac6bb1a70ce51b10800000000000000
+      internalID: 1951725531057319082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignAxe2
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1205
+        width: 382
+        height: 388
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 194}
+        - {x: -191, y: 89}
+        - {x: -191, y: -110}
+        - {x: -64, y: -194}
+        - {x: 39, y: -194}
+        - {x: 191, y: -119}
+        - {x: 191, y: 194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bdb1ac45d9a2540800000000000000
+      internalID: 4983968925132512035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignAxe1
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1197
+        width: 382
+        height: 399
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8863f7b7e13c7e820800000000000000
+      internalID: 2947539016825648776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignText2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 567
+        width: 382
+        height: 388
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 194}
+        - {x: -191, y: -114}
+        - {x: -63, y: -194}
+        - {x: 66, y: -194}
+        - {x: 191, y: -97}
+        - {x: 191, y: 194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c16894b148d7daa0800000000000000
+      internalID: -6136198190554652223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignBeer2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 570
+        width: 382
+        height: 388
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 194}
+        - {x: -191, y: 101}
+        - {x: -180, y: -125}
+        - {x: -75, y: -194}
+        - {x: 76, y: -194}
+        - {x: 191, y: -109}
+        - {x: 191, y: 194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9ec35b53d5014f0800000000000000
+      internalID: -860085043572446729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignBeer1
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 558
+        width: 382
+        height: 399
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2551808fa61bd3120800000000000000
+      internalID: 2395265649816900946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignPotion2
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 793
+        width: 382
+        height: 388
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 194}
+        - {x: -191, y: 89}
+        - {x: -188, y: -123}
+        - {x: -44, y: -194}
+        - {x: 36, y: -194}
+        - {x: 191, y: -119}
+        - {x: 191, y: 194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a104e94d81992f1d0800000000000000
+      internalID: -3318421643493228518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignPotion1
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 785
+        width: 382
+        height: 399
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9763580966596b7a0800000000000000
+      internalID: -6361733155870394759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignStake
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 457
+        width: 382
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cbe6bb352aa1c60800000000000000
+      internalID: 7789716986001276017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignGem2
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 384
+        width: 382
+        height: 388
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 194}
+        - {x: -191, y: 97}
+        - {x: -184, y: -110}
+        - {x: -63, y: -194}
+        - {x: 43, y: -194}
+        - {x: 191, y: -110}
+        - {x: 191, y: 194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b18d3e2590fa6d50800000000000000
+      internalID: 6731457116575203765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignGem1
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 373
+        width: 382
+        height: 399
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140da59a07d4f3440800000000000000
+      internalID: 4917734464384847937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 162
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: -103.5}
+        - {x: -57, y: -123.5}
+        - {x: 51, y: -123.5}
+        - {x: 81, y: -92.5}
+        - {x: 81, y: -29.5}
+        - {x: 47, y: 59.5}
+        - {x: 61, y: 87.5}
+        - {x: 63, y: 123.5}
+        - {x: -44, y: 123.5}
+        - {x: -52, y: 93.5}
+        - {x: -41, y: 63.5}
+        - {x: -81, y: -34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766982c8a82725a70800000000000000
+      internalID: 8814233360100005479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery6
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 21
+        width: 259
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 114.5}
+        - {x: -129.5, y: -12.5}
+        - {x: -129.5, y: -71.5}
+        - {x: -75.5, y: -114.5}
+        - {x: 89.5, y: -114.5}
+        - {x: 129.5, y: -78.5}
+        - {x: 129.5, y: -3.5}
+        - {x: 87.5, y: 114.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e38ca25349f19a0800000000000000
+      internalID: -6260122000949756345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery5
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 26
+        width: 187
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 139.5}
+        - {x: -66.5, y: 115.5}
+        - {x: -50.5, y: 84.5}
+        - {x: -62.5, y: 62.5}
+        - {x: -54.5, y: 35.5}
+        - {x: -93.5, y: 4.5}
+        - {x: -93.5, y: -101.5}
+        - {x: -47.5, y: -141.5}
+        - {x: 40.5, y: -141.5}
+        - {x: 92.5, y: -85.5}
+        - {x: 92.5, y: 4.3208313}
+        - {x: 48.5, y: 38.5}
+        - {x: 44.5, y: 87.5}
+        - {x: 56.5, y: 114.5}
+        - {x: 57.5, y: 138.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4f109712b31e300800000000000000
+      internalID: 279569666823812348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignAnvil2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1011
+        width: 382
+        height: 388
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 194}
+        - {x: -191, y: -111}
+        - {x: -66, y: -194}
+        - {x: 60, y: -194}
+        - {x: 186, y: -99}
+        - {x: 190, y: 194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c35c82906738f6c0800000000000000
+      internalID: -4109473772060519481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SignAxe2: 4983968925132512035
+      Sign1: -2742302684088697420
+      SignPotion2: -3318421643493228518
+      Pottery7: -5901745844636399570
+      Pottery6: -6260122000949756345
+      Pottery1: -8967832436468776462
+      Sign2: -5459743574113085061
+      Sign3: 8051134168378353487
+      SignAnvil2: -4109473772060519481
+      SignPotion1: -6361733155870394759
+      Pottery8: 8814233360100005479
+      Sign4: 1714756807398554617
+      SignGem1: 4917734464384847937
+      Pottery5: 279569666823812348
+      Pottery3: 4130303453484289882
+      Pottery2: -1180436918578810845
+      SignAxe1: 2947539016825648776
+      SignStake: 7789716986001276017
+      SignGem2: 6731457116575203765
+      SignAnvil1: 1951725531057319082
+      SignBeer2: -860085043572446729
+      SignText1: 2771593224786716091
+      SignText2: -6136198190554652223
+      SignBeer1: 2395265649816900946
+      Pottery4: 2819549039577334838
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

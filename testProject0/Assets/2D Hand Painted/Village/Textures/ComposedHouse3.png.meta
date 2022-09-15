@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 0e744a95ea181446bbf836865777ac33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6935872964102549349
+    second: BeamDark8
+  - first:
+      213: 622986445213898342
+    second: Beam8
+  - first:
+      213: -3987374580190909402
+    second: BeamDark9
+  - first:
+      213: -5543726027012797806
+    second: Beam9
+  - first:
+      213: 2317656414804079167
+    second: HouseSide12
+  - first:
+      213: -460039288974324667
+    second: HouseSide14
+  - first:
+      213: 7957253833332557934
+    second: Beam7
+  - first:
+      213: 9044456110404017939
+    second: BeamDark7
+  - first:
+      213: -6342173933151075829
+    second: BeamDark1
+  - first:
+      213: -4863008351420469392
+    second: Beam1
+  - first:
+      213: -3933651170869432142
+    second: Beam6
+  - first:
+      213: -4032140979569296166
+    second: BeamDark6
+  - first:
+      213: -8580928225582736118
+    second: BeamDark4
+  - first:
+      213: 8826583747458129629
+    second: Beam4
+  - first:
+      213: -2690150324097483028
+    second: BeamDark2
+  - first:
+      213: -653907513136922849
+    second: Beam2
+  - first:
+      213: 5487772090885991505
+    second: BeamDark3
+  - first:
+      213: -7646802357824604652
+    second: Beam3
+  - first:
+      213: -2387421375687845333
+    second: BeamDark5
+  - first:
+      213: -2734091029672790757
+    second: Beam5
+  - first:
+      213: -1113320040411664331
+    second: HouseFront1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BeamDark8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1500
+        width: 479
+        height: 412
+      alignment: 9
+      pivot: {x: 0.8782586, y: 0.0028375422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 239.5, y: -195}
+        - {x: -211.5, y: 206}
+        - {x: -239.5, y: 206}
+        - {x: -239.5, y: 108}
+        - {x: 118.5, y: -206}
+        - {x: 239.5, y: -206}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: b909e677944debf90800000000000000
+      internalID: -6935872964102549349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1626
+        width: 479
+        height: 412
+      alignment: 9
+      pivot: {x: 0.8855797, y: 0.00000029628717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -214.5, y: 206}
+        - {x: -239.5, y: 206}
+        - {x: -239.5, y: 109}
+        - {x: 121.5, y: -206}
+        - {x: 239.5, y: -206}
+        - {x: 239.5, y: -179}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 6669bd60fda45a800800000000000000
+      internalID: 622986445213898342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1505
+        width: 461
+        height: 406
+      alignment: 9
+      pivot: {x: 0.13486439, y: 0.0028794764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 219.5, y: 203}
+        - {x: -230.5, y: -199}
+        - {x: -230.5, y: -203}
+        - {x: -109.5, y: -203}
+        - {x: 230.5, y: 98}
+        - {x: 230.5, y: 202}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 62c6c4102fff9a8c0800000000000000
+      internalID: -3987374580190909402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1636
+        width: 461
+        height: 406
+      alignment: 9
+      pivot: {x: 0.12725738, y: 0.0000003006658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 220.5, y: 203}
+        - {x: -230.5, y: -200}
+        - {x: -230.5, y: -203}
+        - {x: -110.5, y: -203}
+        - {x: 230.5, y: 95}
+        - {x: 230.5, y: 203}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 29a80d3ec8ab013b0800000000000000
+      internalID: -5543726027012797806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseSide12
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1040
+        width: 485
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f327dc3da38f92020800000000000000
+      internalID: 2317656414804079167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseSide14
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1040
+        width: 485
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c46fd34bc9d99f0800000000000000
+      internalID: -460039288974324667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1390
+        width: 980
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68076bb338dd6e60800000000000000
+      internalID: 7957253833332557934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1287
+        width: 980
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f1e3fa9ec548d70800000000000000
+      internalID: 9044456110404017939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 27
+        width: 76
+        height: 1184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02c9caf8621cf7a0800000000000000
+      internalID: -6342173933151075829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 76
+        height: 1184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f23d17baf138cb0800000000000000
+      internalID: -4863008351420469392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1136
+        width: 240
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0370af91dd869c0800000000000000
+      internalID: -3933651170869432142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1029
+        width: 240
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcf97c6425fa08c0800000000000000
+      internalID: -4032140979569296166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 258
+        width: 74
+        height: 848
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d94071e3b6ae880800000000000000
+      internalID: -8580928225582736118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam4
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 258
+        width: 74
+        height: 848
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde5a7f27235e7a70800000000000000
+      internalID: 8826583747458129629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 27
+        width: 75
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee74c3888aaaaad0800000000000000
+      internalID: -2690150324097483028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 27
+        width: 77
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb383d49adce6f0800000000000000
+      internalID: -653907513136922849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 28
+        width: 75
+        height: 412
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cef8524ab782c40800000000000000
+      internalID: 5487772090885991505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 28
+        width: 76
+        height: 411
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416be3225c911e590800000000000000
+      internalID: -7646802357824604652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeamDark5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 28
+        width: 75
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a93fc68ec2eded0800000000000000
+      internalID: -2387421375687845333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam5
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 28
+        width: 75
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1575c0c1be8e0ad0800000000000000
+      internalID: -2734091029672790757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseFront1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 29
+        width: 1224
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53070f56251bc80f0800000000000000
+      internalID: -1113320040411664331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BeamDark1: -6342173933151075829
+      Beam6: -3933651170869432142
+      BeamDark4: -8580928225582736118
+      BeamDark3: 5487772090885991505
+      Beam4: 8826583747458129629
+      Beam8: 622986445213898342
+      Beam2: -653907513136922849
+      HouseSide12: 2317656414804079167
+      Beam3: -7646802357824604652
+      BeamDark8: -6935872964102549349
+      BeamDark7: 9044456110404017939
+      BeamDark5: -2387421375687845333
+      Beam1: -4863008351420469392
+      Beam7: 7957253833332557934
+      Beam5: -2734091029672790757
+      BeamDark2: -2690150324097483028
+      HouseSide14: -460039288974324667
+      Beam9: -5543726027012797806
+      BeamDark6: -4032140979569296166
+      BeamDark9: -3987374580190909402
+      HouseFront1: -1113320040411664331
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

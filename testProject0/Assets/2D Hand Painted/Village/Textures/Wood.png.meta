@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 27339faa4737e47bbbfc2471fcd2d5de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2067898546876541913
+    second: Bridge
+  - first:
+      213: 2452868899569839818
+    second: Firewood2
+  - first:
+      213: 3762640852321080547
+    second: Fance
+  - first:
+      213: -6984379183983152048
+    second: Firewood1
+  - first:
+      213: 1135088928692803280
+    second: CutTreeTrunk
+  - first:
+      213: -3671240662380257056
+    second: WoodenBox3
+  - first:
+      213: 3228662599699316609
+    second: Ladder
+  - first:
+      213: 5370509177723687733
+    second: Barrel1
+  - first:
+      213: -8324512187740204473
+    second: Bridge
+  - first:
+      213: -6460909058120563490
+    second: Firewood2
+  - first:
+      213: -4496330303646170038
+    second: Fance
+  - first:
+      213: 4995043052059016683
+    second: Firewood1
+  - first:
+      213: -4780452926777413898
+    second: CutTreeTrunk
+  - first:
+      213: 5889691846560846835
+    second: WoodenBox3
+  - first:
+      213: -3384122236377863925
+    second: Ladder
+  - first:
+      213: -8030332617377667302
+    second: Barrel1
+  - first:
+      213: 5789874280658644899
+    second: WoodenBox1
+  - first:
+      213: 8198346204976274233
+    second: WaterTank
+  - first:
+      213: -2237756762598508969
+    second: Barrel2
+  - first:
+      213: -8227781380735155357
+    second: WoodenBox2
+  - first:
+      213: 8055832027154201287
+    second: Bucket
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firewood2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1831
+        width: 822
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -411, y: 87.5}
+        - {x: -411, y: -67.5}
+        - {x: -396, y: -87.5}
+        - {x: 365, y: -87.5}
+        - {x: 411, y: -30.895142}
+        - {x: 410.99988, y: 44.11316}
+        - {x: 373, y: 87.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4ce98617d3656a0800000000000000
+      internalID: 2452868899569839818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewood1
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1633
+        width: 822
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -381, y: 87.5}
+        - {x: -411, y: 54.5}
+        - {x: -411, y: -87.5}
+        - {x: 364, y: -87.5}
+        - {x: 410, y: -37.5}
+        - {x: 411, y: 29.5}
+        - {x: 372, y: 87.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedb2c3e035f15540800000000000000
+      internalID: -6984379183983152048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutTreeTrunk
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1131
+        width: 462
+        height: 475
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 217, y: 237.5}
+        - {x: 150, y: 237.5}
+        - {x: -154, y: 94.5}
+        - {x: -96, y: 1.5}
+        - {x: -179, y: -7.5}
+        - {x: -204, y: -105.5}
+        - {x: -201, y: -163.5}
+        - {x: -231, y: -190.5}
+        - {x: -231, y: -237.5}
+        - {x: 104, y: -237.5}
+        - {x: 129, y: -210.5}
+        - {x: 107, y: -127.5}
+        - {x: 119, y: -36.5}
+        - {x: 41, y: -5.5}
+        - {x: -25, y: 41.5}
+        - {x: 27, y: 91.5}
+        - {x: 231, y: 170.5}
+        - {x: 231, y: 224.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fea4f9146b68adb0800000000000000
+      internalID: 1135088928692803280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox3
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1342
+        width: 503
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.5, y: 109}
+        - {x: -251.5, y: 101}
+        - {x: -251.5, y: -61}
+        - {x: 53.5, y: -109}
+        - {x: 97.5, y: -109}
+        - {x: 247.5, y: -69}
+        - {x: 242.5, y: 89}
+        - {x: 59.5, y: 109}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f316ce87836cb150800000000000000
+      internalID: -3671240662380257056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel1
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 519
+        width: 426
+        height: 599
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: 299.5}
+        - {x: -213, y: 250.5}
+        - {x: -213, y: -100.5}
+        - {x: -150, y: -299.5}
+        - {x: 149, y: -299.5}
+        - {x: 212, y: -99.5}
+        - {x: 212, y: 183.5}
+        - {x: 183, y: 299.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a8f0f7078e8090800000000000000
+      internalID: 5370509177723687733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox1
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 914
+        width: 483
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -241.5, y: 199.5}
+        - {x: -241.5, y: -158.5}
+        - {x: -106.5, y: -199.5}
+        - {x: -2.5, y: -199.5}
+        - {x: 241.5, y: -184.5}
+        - {x: 241.5, y: 166.5}
+        - {x: 134.5, y: 199.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af24d07bf3c95050800000000000000
+      internalID: 5789874280658644899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTank
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 25
+        width: 1107
+        height: 898
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b584dcf6066c170800000000000000
+      internalID: 8198346204976274233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel2
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 9
+        width: 582
+        height: 503
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 291, y: 84.5}
+        - {x: 74, y: 251.5}
+        - {x: -157, y: 251.5}
+        - {x: -230, y: 201.5}
+        - {x: -291, y: 121.5}
+        - {x: -291, y: -33.5}
+        - {x: -279, y: -75.5}
+        - {x: -199, y: -181.5}
+        - {x: -56, y: -251.5}
+        - {x: 165, y: -251.5}
+        - {x: 291, y: -143.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756769f9414e1f0e0800000000000000
+      internalID: -2237756762598508969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox2
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 498
+        width: 483
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.5, y: 199.5}
+        - {x: -241.5, y: 194.5}
+        - {x: -241.5, y: -155.5}
+        - {x: -116.5, y: -199.5}
+        - {x: 63.5, y: -199.5}
+        - {x: 241.5, y: -189.5}
+        - {x: 241.5, y: 163.5}
+        - {x: 148.5, y: 199.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36345b74d6c01dd80800000000000000
+      internalID: -8227781380735155357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bucket
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 38
+        width: 311
+        height: 337
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.5, y: 168.5}
+        - {x: -155.5, y: 148.5}
+        - {x: -155.5, y: 78.5}
+        - {x: -113.5, y: -160.5}
+        - {x: -89.5, y: -168.5}
+        - {x: 83.5, y: -168.5}
+        - {x: 155.5, y: 85.5}
+        - {x: 155.5, y: 145.5}
+        - {x: 86.5, y: 168.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cabdbc0c801ccf60800000000000000
+      internalID: 8055832027154201287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Firewood1: -6984379183983152048
+      WoodenBox3: -3671240662380257056
+      WoodenBox1: 5789874280658644899
+      Firewood2: 2452868899569839818
+      Barrel2: -2237756762598508969
+      Bucket: 8055832027154201287
+      CutTreeTrunk: 1135088928692803280
+      WaterTank: 8198346204976274233
+      WoodenBox2: -8227781380735155357
+      Barrel1: 5370509177723687733
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

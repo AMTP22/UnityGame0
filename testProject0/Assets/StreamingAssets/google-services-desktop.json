@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "310906927454",
+    "project_id": "fir-tutorial-ba967",
+    "storage_bucket": "fir-tutorial-ba967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310906927454:ios:b40ab1dae2e3d7c842b7cf",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310906927454-5qqst7ho0t9o9p4mbvgehps8bj6ija1b.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm53wdBaRdfyMxFC6A3vvlKNAIQV9sBhs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: d914a57f329fd4dc2844d0db2faee440
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7013130549122235193
+    second: Windmill2
+  - first:
+      213: 8990313265967150398
+    second: Wing1
+  - first:
+      213: 3053275756057927070
+    second: Bearing
+  - first:
+      213: 3440535994269307539
+    second: Wing2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Windmill2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1235
+        width: 1491
+        height: 635
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 357.5, y: 311.5}
+        - {x: 294.5, y: 317.5}
+        - {x: -323.5, y: 317.5}
+        - {x: -356.5, y: 307.5}
+        - {x: -745.5, y: -317.5}
+        - {x: 745.5, y: -316.5}
+        - {x: 737.5, y: -260.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bfed7c315a35160800000000000000
+      internalID: 7013130549122235193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wing1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 707
+        width: 1349
+        height: 402
+      alignment: 9
+      pivot: {x: 0.0005340689, y: 0.8597257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -674.5, y: 201}
+        - {x: -674.5, y: 114}
+        - {x: -280.5, y: 105}
+        - {x: -280.5, y: -142}
+        - {x: -323.5, y: -149}
+        - {x: -334.5, y: -201}
+        - {x: 672.5, y: -199}
+        - {x: 674.5, y: -198}
+        - {x: 674.5, y: 201}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35347d584204cc70800000000000000
+      internalID: 8990313265967150398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bearing
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 729
+        width: 381
+        height: 380
+      alignment: 9
+      pivot: {x: 0.49815342, y: 0.4980454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179.5, y: 187}
+        - {x: -190.5, y: 161}
+        - {x: -190.5, y: -190}
+        - {x: 187.5, y: -190}
+        - {x: 187.5, y: 171}
+        - {x: 171.5, y: 187}
+      - - {x: -136.5, y: 34}
+        - {x: -136.5, y: 118}
+        - {x: -43.5, y: 118}
+        - {x: -43.5, y: 34}
+      - - {x: -134.5, y: -135}
+        - {x: -134.5, y: -44}
+        - {x: -39.5, y: -44}
+        - {x: -39.5, y: -135}
+      - - {x: 33.5, y: -135}
+        - {x: 33.5, y: -39}
+        - {x: 127.5, y: -39}
+        - {x: 127.5, y: -135}
+      - - {x: 35.5, y: 36}
+        - {x: 35.5, y: 122}
+        - {x: 126.5, y: 122}
+        - {x: 126.5, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d15298f1a6f5a20800000000000000
+      internalID: 3053275756057927070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wing2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 230
+        width: 1351
+        height: 398
+      alignment: 9
+      pivot: {x: 0.0027658278, y: 0.85311705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -675.5, y: 199}
+        - {x: -675.5, y: 112}
+        - {x: -282.5, y: 98}
+        - {x: -278.5, y: -146}
+        - {x: -323.5, y: -151}
+        - {x: -318.5, y: -199}
+        - {x: 675.5, y: -199}
+        - {x: 675.5, y: 199}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3921e5f024d3fbf20800000000000000
+      internalID: 3440535994269307539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wing1: 8990313265967150398
+      Bearing: 3053275756057927070
+      Wing2: 3440535994269307539
+      Windmill2: 7013130549122235193
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
